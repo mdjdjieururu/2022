@@ -59,7 +59,8 @@ You can deploy this bot anywhere.
 <br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mdjdjieururu/2022)
 ">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+  <img src="https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mdjdjieururu/2022)
+">
 </a>
 </p>
 </details>
